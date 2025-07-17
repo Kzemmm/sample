@@ -5,7 +5,7 @@
         <div class="card shadow-lg">
             <div class="card-body">
                 <div class="d-flex justify-content-between align-items-center mb-3">
-                    <h2 class="mb-0">Posts</h2>
+                    <h2 class="mb-0">Yawa</h2>
                     <a href="{{ route('posts.create') }}" class="btn btn-primary">Create Post</a>
                 </div>
                 <div class="table-responsive">
